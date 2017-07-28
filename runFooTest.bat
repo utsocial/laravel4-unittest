@@ -1,0 +1,1 @@
+phpunit --colors tests/FooTest.php
